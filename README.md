@@ -40,6 +40,12 @@ https://angular.io/guide/inputs-outputs
 Q. What is Content Projection? 
 https://angular.io/guide/inputs-outputs
 
+Q. What is ngTemplateOutlet
+https://angular.io/api/common/NgTemplateOutlet
+
+Q. What are Template Reference Variables?
+https://angular.io/guide/template-reference-variables
+
 Q. How is an Angular app bootstrapped?
 
 Q. How do you structure an Angular app? How does you folder structure look like?
@@ -79,6 +85,7 @@ Topics to study:
 - [Angular CLI](https://angular.io/cli)
 - [Routing](https://angular.io/guide/routing-overview)
 - [Forms](https://angular.io/guide/forms-overview)
+- [Services](https://angular.io/guide/architecture-services#providing-services)
 
  
 Angular 15 topics:
@@ -89,6 +96,11 @@ Angular 15 topics:
 Angular 16+
 Signals- https://www.youtube.com/watch?v=4FkFmn0LmLI
 
+### State Management
+
+- Have you used component store?
+- Any state managemente libs? Akita, NgRx etc.
+- Can state management be done only via RxJs and services?
 
 ### RxJS:
 
@@ -98,4 +110,7 @@ What is Replay Subject?
 How can we write declarative code with RxJS? 
 https://www.youtube.com/watch?v=skOTEbGwncE
 
+### Angular Study Resources
 
+- https://angular-training-guide.rangle.io/
+- 
