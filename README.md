@@ -38,12 +38,13 @@ Q. Component interaction- How do you interact between components?
 [Input/Output](https://angular.io/guide/component-interaction#component-interaction)
 https://angular.io/guide/inputs-outputs
 
-Q. What is Content Projection? https://angular.io/guide/inputs-outputs
+Q. What is Content Projection? 
+https://angular.io/guide/inputs-outputs
 
-Q. How is an Angular app bootsrapped?
+Q. How is an Angular app bootstrapped?
 
 Q. How do you structure an Angular app? How does you folder structure look like?
-[Angular workspace](https://angular.io/guide/file-structure)
+https://angular.io/guide/file-structure
 
 Q. What is the  SCAM pattern?
 https://angular-training-guide.rangle.io/modules/module-scam-pattern
@@ -51,10 +52,13 @@ https://angular-training-guide.rangle.io/modules/module-scam-pattern
 Q. Template driven or reactive forms? What are the advantages of one over the other?
 
 Q. Reactive forms - What is FormGroup, FormControl, FormArray and FomBuilder?
+https://angular.io/api/forms/FormGroup
+https://angular.io/api/forms/FormControl
+https://angular.io/api/forms/FormBuilder
+https://angular.io/api/forms/FormArray
 
 Q. How do we communicate in Angular with the backend?
-
-[http](https://angular.io/guide/http)
+https://angular.io/guide/http
 
 Q. How do you test Angular components?
 
