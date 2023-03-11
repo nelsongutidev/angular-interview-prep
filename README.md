@@ -21,7 +21,6 @@ Q. What is Angular?
 
 Q. What do you like about Angular?
 
-A. 
 - Take advantage of a platform that can scale from single-developer projects to enterprise-level applications. 
 - Designed to make updating as straightforward as possible, so take advantage of the latest developments with minimal effort. 
 - Angular Community
@@ -30,20 +29,16 @@ Bonus points for conversation starters:
 
 Are you part of the community? How do you participate?
 
-Q. Lifecycle hooks
+Q. Lifecycle hooks? https://angular.io/guide/lifecycle-hooks
 
-A. [Lifecycle Hooks](https://angular.io/guide/lifecycle-hooks)
-
-Q. View encapsulation
-
-A. [View encapsulation](https://angular.io/guide/view-encapsulation)
+Q. View encapsulation https://angular.io/guide/view-encapsulation
 
 Q. Component interaction- How do you interact between components?
 
-A. [Input/Output](https://angular.io/guide/component-interaction#component-interaction)
+[Input/Output](https://angular.io/guide/component-interaction#component-interaction)
 https://angular.io/guide/inputs-outputs
 
-Q. [Content Projection](https://angular.io/guide/inputs-outputs)
+Q. What is Content Projection? https://angular.io/guide/inputs-outputs
 
 Q. How is an Angular app bootsrapped?
 
@@ -63,6 +58,17 @@ Q. How do we communicate in Angular with the backend?
 
 Q. How do you test Angular components?
 
+Q. What is you experience upgrading angular version on a project?
+
+Q. What tools does Angular provide againstcommon web-application vulnerabilities and attacks such as cross-site scripting attacks?
+https://angular.io/guide/security
+
+Q. Can we do lazy loading in Angular?
+https://angular.io/guide/lazy-loading-ngmodules
+
+Q. **Change Detection in Angular** 
+https://angular.io/guide/change-detection
+
 Topics to study:
 
 - [Directives](https://angular.io/guide/built-in-directives)
@@ -70,6 +76,11 @@ Topics to study:
 - [Angular CLI](https://angular.io/cli)
 - [Routing](https://angular.io/guide/routing-overview)
 - [Forms](https://angular.io/guide/forms-overview)
+
+RxJS:
+What is an observable?
+What is the difference between Subject and Behavior subject?
+What is Replay Subject?
  
 Angular 15 topics:
 
