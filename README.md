@@ -34,8 +34,7 @@ Q. Lifecycle hooks? https://angular.io/guide/lifecycle-hooks
 Q. View encapsulation https://angular.io/guide/view-encapsulation
 
 Q. Component interaction- How do you interact between components?
-
-[Input/Output](https://angular.io/guide/component-interaction#component-interaction)
+https://angular.io/guide/component-interaction#component-interaction
 https://angular.io/guide/inputs-outputs
 
 Q. What is Content Projection? 
