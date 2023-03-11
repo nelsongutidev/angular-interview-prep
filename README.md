@@ -88,10 +88,12 @@ Topics to study:
 - [Services](https://angular.io/guide/architecture-services#providing-services)
 
  
-Angular 15 topics:
+Angular 14-15 topics:
 
 - [Standalone componenents](https://angular.io/guide/standalone-components)
 - [Image Directive](https://angular.io/guide/image-directive)
+- [Inject](https://angular.io/api/core/inject)
+- [bootstrapApplication](https://angular.io/api/platform-browser/bootstrapApplication)
 
 Angular 16+
 Signals- https://www.youtube.com/watch?v=4FkFmn0LmLI
