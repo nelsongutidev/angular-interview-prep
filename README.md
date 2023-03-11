@@ -80,15 +80,22 @@ Topics to study:
 - [Routing](https://angular.io/guide/routing-overview)
 - [Forms](https://angular.io/guide/forms-overview)
 
-RxJS:
-What is an observable?
-What is the difference between Subject and Behavior subject?
-What is Replay Subject?
  
 Angular 15 topics:
 
 - [Standalone componenents](https://angular.io/guide/standalone-components)
 - [Image Directive](https://angular.io/guide/image-directive)
 
+Angular 16+
+Signals- https://www.youtube.com/watch?v=4FkFmn0LmLI
+
+
+### RxJS:
+
+What is an observable?
+What is the difference between Subject and Behavior subject?
+What is Replay Subject?
+How can we write declarative code with RxJS? 
+https://www.youtube.com/watch?v=skOTEbGwncE
 
 
